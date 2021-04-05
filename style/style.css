@@ -11,7 +11,11 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-/* navbar */
+/* navigation */
+
+.navigation {
+    margin-left: 8rem;
+}
 
 /* sidebar */
 
