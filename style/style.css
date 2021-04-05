@@ -199,3 +199,9 @@ body {
     transform: rotate(405deg) translate(-5px, -6px);
     width: 2.5rem;
 }
+
+/* header */
+
+.header {
+    margin-left: 8rem;
+}
