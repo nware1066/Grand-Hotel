@@ -113,7 +113,11 @@ body {
     width: 3rem;
 }
 
-
+.copyright {
+    color: #c07f51;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
 
 
 /* sidebar */
