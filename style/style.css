@@ -300,6 +300,12 @@ body {
     color: #555;
 }
 
+.small-underline {
+    width: 9rem;
+    height: .1rem;
+    background-color: #b85d1c;
+}
+
 .about-us-images {
     flex: 1 1;
 }
