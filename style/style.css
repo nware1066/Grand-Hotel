@@ -304,12 +304,20 @@ body {
     width: 9rem;
     height: .1rem;
     background-color: #b85d1c;
+    margin: 0 auto 1rem auto;
 }
 
 .large-underline {
     width: 20rem;
     height: .1rem;
     background-color: #b85d1c;
+}
+
+.sub-heading {
+    font-size: 3.5rem;
+    font-weight: 300;
+    letter-spacing: .1rem;
+    color: #b85d1c;
 }
 
 .about-us-images {
