@@ -306,6 +306,12 @@ body {
     background-color: #b85d1c;
 }
 
+.large-underline {
+    width: 20rem;
+    height: .1rem;
+    background-color: #b85d1c;
+}
+
 .about-us-images {
     flex: 1 1;
 }
