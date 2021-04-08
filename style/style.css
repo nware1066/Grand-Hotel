@@ -400,4 +400,12 @@ body {
     margin-left: 8rem;
 }
 
-.
+.room-card {
+    width: 60rem;
+    margin: 5rem;
+    background-color: #15141b;
+}
+
+.room-img {
+    width: 100%;
+}
