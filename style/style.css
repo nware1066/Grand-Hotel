@@ -11,6 +11,33 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.common-header {
+    padding: 5rem;
+    text-align: center;
+    color:#b85d1c;
+}
+
+.small-underline {
+    width: 9rem;
+    height: .1rem;
+    background-color: #b85d1c;
+    margin: 0 auto 1rem auto;
+}
+
+.large-underline {
+    width: 20rem;
+    height: .1rem;
+    margin: auto;
+    margin-bottom: 1rem;
+    background-color: #b85d1c;
+}
+
+.common-heading {
+    font-size: 4rem;
+    font-weight: 300;
+    letter-spacing: .2rem;
+}
+
 
 /* sidebar */
 
@@ -300,20 +327,6 @@ body {
     color: #555;
 }
 
-.small-underline {
-    width: 9rem;
-    height: .1rem;
-    background-color: #b85d1c;
-    margin: 0 auto 1rem auto;
-}
-
-.large-underline {
-    width: 20rem;
-    height: .1rem;
-    margin-bottom: 1rem;
-    background-color: #b85d1c;
-}
-
 .sub-heading {
     font-size: 3.5rem;
     font-weight: 300;
@@ -381,3 +394,10 @@ body {
     transform: translate(-30%, -30%)
 }
 
+/* rooms section */
+
+.rooms {
+    margin-left: 8rem;
+}
+
+.
