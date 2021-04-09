@@ -475,3 +475,19 @@ body {
     color: #ddd;
     background-color: #b85d1c;
 }
+
+/* customer section */
+
+.customers {
+    margin-left: 8rem;
+    padding-bottom: 7rem;
+    background-color: #15141b;
+}
+
+.customers-paragraph {
+    font-size: 1.8rem;
+    color: #ddd;
+    width: 50%;
+    margin: 2rem auto 8rem auto;
+    text-align: center;
+}
