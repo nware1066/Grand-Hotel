@@ -504,6 +504,10 @@ body {
     width: 60rem;
 }
 
+.customer-image-wrapper {
+    margin: auto 0;
+}
+
 .customer-image {
     width: 20rem;
     margin-left: -1.3rem;
@@ -529,4 +533,3 @@ body {
     font-size: 1.2rem;
     font-style: italic;
 }
-
