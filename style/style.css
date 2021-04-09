@@ -491,3 +491,19 @@ body {
     margin: 2rem auto 8rem auto;
     text-align: center;
 }
+
+.customers-card-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.customer-card {
+    display:flex;
+    background-color: #777;
+    width: 60rem;
+}
+
+.customer-image {
+    width: 20rem;
+    margin-left: -1.3rem;
+}
