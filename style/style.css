@@ -709,3 +709,27 @@ body {
         font-size: 1.5rem;
     }
 }
+
+@media(max-width: 750px) {
+    .customer-card {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .customer-image {
+        margin-left: 0
+    }
+
+    .footer-list {
+        display: block;
+    }
+
+    .creator-part {
+        flex-direction: column;
+    }
+
+    .copyright-text {
+        order: 1;
+    }
+
+}
