@@ -451,6 +451,7 @@ body {
     border: .1rem solid #b85d1c;
     border-radius:3rem;
     cursor: pointer;
+    outline: none;
 }
 
 .rooms-button-wrapper {
@@ -499,7 +500,7 @@ body {
 
 .customer-card {
     display:flex;
-    background-color: #777;
+    background-color: rgb(185, 182, 182);
     width: 60rem;
 }
 
@@ -507,3 +508,25 @@ body {
     width: 20rem;
     margin-left: -1.3rem;
 }
+
+.customer-info {
+    padding: 0 2rem;
+}
+
+.customer-fullname {
+    font-size:2rem;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.customer-paragraph-1 {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #b85d1c;
+}
+
+.customer-paragraph-2 {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+
