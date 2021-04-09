@@ -593,3 +593,22 @@ body {
     background-color: #ddd;
     outline: none;
 }
+
+.gallery {
+    max-width: 45rem;
+}
+
+.image-wrapper {
+    width: 12rem;
+    margin: .4rem;
+}
+
+.footer-image {
+    width: 100%;
+}
+
+.gallery-images {
+    display: flex;
+    flex-wrap: wrap;
+
+}
